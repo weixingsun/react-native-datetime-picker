@@ -1,5 +1,5 @@
 {
-    "name": "@remobile/react-native-datetime-picker",
+    "name": "react-native-datetime-picker",
         "version": "1.0.3",
         "description": "A datetime-picker for react-native support for android and ios",
         "main": "index.js",
@@ -21,12 +21,5 @@
             "remobile",
             "mobile"
         ],
-        "homepage": "https://github.com/remobile/react-native-datetime-picker",
-        "bugs": {
-            "url": "https://github.com/remobile/react-native-datetime-picker/issues"
-        },
-        "repository": {
-            "type": "git",
-            "url": "git://github.com/remobile/react-native-datetime-picker.git"
-        }
+        "homepage": "https://github.com/weixingsun/react-native-datetime-picker",
 }
